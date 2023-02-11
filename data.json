@@ -1,0 +1,302 @@
+[
+    {
+        "id":1,
+        "question": "What is the name of the ancient Indian text that describes the science of life and virtues?",
+        "choices": [
+            "The Vedas",
+            "The Bhagavad Gita",
+            "The Ramayana",
+            "The Arthashastra"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "The Arthashastra"
+    },
+    {
+        "id":2,
+        "question": "Who is considered to be the father of Indian Constitution?",
+        "choices": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "B. R. Ambedkar",
+            "Sardar Vallabhbhai Patel"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "B. R. Ambedkar"
+    },
+    {
+        "id":3,
+        "question": "What is the name of the mountain in India considered to be the center of the world and the source of all life and creation according to Hindu mythology?",
+        "choices": [
+            "Mount Everest",
+            "Mount Kailash",
+            "Mount Abu",
+            "Mount Annapurna"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Mount Kailash"
+    },
+    {
+        "id":4,
+        "question": "What is the name of the ancient Indian system of medicine that is still widely practiced in India today?",
+        "choices": [
+            "Ayurveda",
+"            Unani",
+            "Siddha",
+            "Allopathic"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Ayurveda"
+    },
+    {
+        "id":5,
+        "question": "What is the name of the famous rock-cut temple complex located in the southern Indian state of Tamil Nadu?",
+        "choices": [
+            "Ajanta Caves",
+            "Ellora Caves",
+            "Mahabalipuram",
+            "Konark Sun Temple"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Mahabalipuram"
+    },
+    {
+        "id":6,
+        "question": "What is the name of the famous classical dance form originating from the Indian state of Tamil Nadu?",
+        "choices": [
+            "Bharatanatyam",
+            "Kathakali",
+            "Odissi",
+            "Manipuri"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Bharatanatyam"
+    },
+    {
+        "id":7,
+        "question": "What is the name of the famous Hindu festival that celebrates the victory of good over evil and the arrival of spring?",
+        "choices": [
+            "Diwali",
+            "Holi",
+            "Navaratri",
+            "Raksha Bandhan"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Holi"
+    },
+    {
+        "id":8,
+        "question": "What is the name of the famous Indian epic poem that narrates the life of Lord Rama and his journey to rescue his wife Sita from the demon king Ravana?",
+        "choices": [
+            "Mahabharata",
+            "Ramayana",
+            "Puranas",
+            "Upanishads"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Ramayana"
+    },
+    {
+        "id":9,
+        "question": "What is the name of the famous Indian mathematician and astronomer known for his work on the approximation of pi and the concept of zero?",
+        "choices": [
+            "Aryabhata",
+            "Brahmagupta",
+            "Varahamihira",
+            "Bhaskara"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Aryabhata"
+    },
+    {
+        "id":10,
+        "question": "What is the name of the famous Indian king who is said to have ruled the Mauryan Empire from 269 BC to 232 BC?",
+        "choices": [
+"            Asoka",
+            "Chandragupta",
+            "Bindusara",
+            "Dharmashoka"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Asoka"
+    },
+    {
+        "id":11,
+        "question": "What is the name of the famous Indian philosopher and teacher who was the founder of Buddhism and is known as the Buddha?",
+        "choices": [
+            "Mahavira",
+            "Gautama Buddha",
+            "Parshvanatha",
+            "Neminatha"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Gautama Buddha"
+    },
+    {
+        "id":12,
+        "question": "What is the name of the famous Indian queen who was the wife of King Ashoka and is known for promoting Buddhism?",
+        "choices": [
+            "Dharmashoka",
+            "Padmavati",
+            "Tishyaraksha",
+            "Dharma"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Dharma"
+    },
+    {
+        "id":13,
+        "question": "What is the name of the famous Indian mathematician and astronomer who is known for his work on the calculation of the value of pi and the area of a circle?",
+        "choices": [
+            "Brahmagupta",
+            "Aryabhata",
+            "Varahamihira",
+            "Bhaskara"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Bhaskara"
+    },
+    {
+        "id":14,
+        "question": "What is the name of the famous Indian epic poem that tells the story of the Kuru kingdom and the struggle between the Pandavas and the Kauravas for the throne?",
+        "choices": [
+            "Ramayana",
+            "Mahabharata",
+            "Puranas",
+            "Upanishads"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Mahabharata"
+    },
+    {
+        "id":15,
+        "question": "What is the name of the famous Indian independence leader who is known as the 'Iron Man of India'?",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi",
+            "B. R. Ambedkar"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Sardar Vallabhbhai Patel"
+    },
+    {
+        "id":16,
+        "question": "What is the name of the famous Indian independence leader who is known for his nonviolent resistance and is referred to as the 'Mahatm'?",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi",
+            "B. R. Ambedkar"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Mahatma Gandhi"
+    },
+    {
+        "id":17,
+        "question": "What is the name of the famous Indian independence leader who was the first Prime Minister of India after independence from British rule?",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi",
+            "B. R. Ambedkar"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Jawaharlal Nehru"
+    },
+    {
+        "id":18,
+        "question": "What is the name of the famous Indian independence leader who was a social reformer and is known for his work on the caste system and the rights of the Dalits?",
+        "choices": [
+            "Jawaharlal Nehru",
+            "Sardar Vallabhbhai Patel",
+            "Mahatma Gandhi",
+            "B. R. Ambedkar"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "B. R. Ambedkar"
+    },
+    {
+        "id":19,
+        "question": "What is the name of the famous Indian monument that was built in the memory of Queen Mumtaz Mahal, the wife of the Mughal Emperor Shah Jahan?",
+        "choices": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Red Fort",
+            "Humayuns Tomb"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Taj Mahal"
+    },
+    {
+        "id":20,
+        "question": "What is the name of the famous Indian monument that was built by the Mughal Emperor Shah Jahan as a symbol of his love for his wife Mumtaz Mahal?",
+        "choices": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Red Fort",
+            "Humayun s Tomb"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Taj Mahal"
+    },
+    {
+        "id":21,
+        "question": "What is the name of the famous Indian monument that was built as a victory tower by Qutb-ud-din Aibak after the defeat of the Delhi s last Hindu kingdom?",
+        "choices": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Red Fort",
+            "Humayun s Tomb"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Qutub Minar"
+    },
+    {
+        "id":22,
+        "question": "What is the name of the famous Indian monument that was built by the Mughal Emperor Shah Jahan in Delhi as his residence and palace?",
+        "choices": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Red Fort",
+            "Humayun s Tomb"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Red Fort"
+    },
+    {
+        "id":23,
+        "question": "What is the name of the famous Indian monument that was built by the Mughal Emperor Humayun as his final resting place?",
+        "choices": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Red Fort",
+            "Humayun s Tomb"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Humayun s Tomb"
+    },
+    {
+        "id":24,
+        "question": "What is the name of the famous Indian epic that tells the story of the prince Rama and his rescue of his wife Sita from the demon king Ravana?",
+        "choices": [
+            "Mahabharata",
+            "Ramayana",
+            "Bhagavad Gita",
+            "Puranas"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Ramayana"
+    },
+    {
+        "id":25,
+        "question": "What is the name of the famous Indian epic that tells the story of a great war between the Pandavas and the Kauravas for the kingdom of Hastinapura?",
+        "choices": [
+            "Mahabharata",
+            "Ramayana",
+            "Bhagavad Gita",
+            "Puranas"
+        ],
+        "type": "MCQs",
+        "correctAnswer": "Mahabharata"
+    }
+]
